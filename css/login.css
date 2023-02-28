@@ -1,0 +1,25 @@
+*{
+    background-color: #DFEFCA;
+    font-family: 'Roboto', sans-serif;
+}
+img{
+    height: 100px;
+    width: 100px;
+    border: 5px solid #3E885B;
+    border-radius: 50%;
+}
+
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#landing{  
+    height: auto;
+    align-items: center;
+}
+
+.row-custom{
+    padding-left: 260px;
+}
+
+

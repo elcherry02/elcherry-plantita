@@ -1,0 +1,16 @@
+*{
+   font-family: 'Roboto', sans-serif; 
+}
+
+.navbar{
+    background-color: #3E885B;
+}
+
+h1, h2, .p1{
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    background-color: azure;
+    height: 100vh;
+}
